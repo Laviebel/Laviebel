@@ -1,10 +1,2 @@
-<img width="341" height="341" alt="image" src="https://github.com/user-attachments/assets/bf644def-a5f8-4524-a18c-eff889eb6591" />
-
-
-Em khong sao , sao anh khong tiep tuc hoi em the nao
-
-
-<img width="192" height="340" alt="image" src="https://github.com/user-attachments/assets/ea098a83-8d9c-4c86-bc52-6724627840e8" />
-
-
-I love you
+<img width="736" height="736" alt="image-Photoroom" src="https://github.com/user-attachments/assets/43b28e71-ff9e-4759-b91d-32158588a2a4" />
+<img width="736" height="1308" alt="image-Photoroom (1)" src="https://github.com/user-attachments/assets/ab156fdf-691a-4146-89e6-bd64280da1f6" />
